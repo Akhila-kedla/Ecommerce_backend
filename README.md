@@ -220,30 +220,6 @@ You can import it from:
 postman_collection.json
 ```
 
----
-
-## 🐳 Docker Support
-
-Add docker-compose and Dockerfile to run MySQL + Spring Boot
-(If needed, I can provide them)
-
----
-
-## 📹 Demo Video (Optional)
-
-(Add demo link here)
-
----
-
-## ✅ Deployment Options
-
-* Docker
-* AWS EC2
-* Azure
-* Render
-* Railway
-
----
 
 ## 🔐 Security
 
